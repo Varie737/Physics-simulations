@@ -6,5 +6,5 @@ Python
 
 # Structure
 
-├── Taylor series.ipynb       # Taylor series visualization
+├── Taylor Series.ipynb       # Taylor series visualization
 
