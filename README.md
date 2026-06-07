@@ -1,10 +1,12 @@
-# Physics-simulations
+# 🚀🛸Physics-simulations🛸🚀
 This repository will explore simulations to physics problems and mathematical simulations :)
 
-# Languages used
-Python
+# 💐🌷Tech used🌷💐
+* Python
+* Juypter Notebook
 
-# Structure
-
-├── Taylor Series.ipynb       # Taylor series visualization
-
+# 🌙🪐 Structure 🪐🌙
+```text
+├── Taylor Series
+├── Monte Carlo
+├__ Ideal Gas Law
